@@ -4,8 +4,8 @@ body{
 }
 .navbar{
 display:flex;
-justify-content: space-between;
-width: 1776px;
+justify-content: space-around;
+margin-top: 50px;
 }
 .logo_img{
    width: 106px;
