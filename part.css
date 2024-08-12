@@ -1,0 +1,98 @@
+.secondlastpart{
+    background-image: url(shadyyyy.png)
+    
+}
+.thebigtextbesidelogo{
+    color: #FFFFFF;
+    font-family: Plus Jakarta Sans;
+font-size: 49.68px;
+font-weight: 800;
+line-height: 62.59px;
+text-align: left;
+}
+.thesmalltextbesidelogo{
+    color: #FFFFFF;
+    font-family: Plus Jakarta Sans;
+font-size: 21.53px;
+font-weight: 300;
+line-height: 27.12px;
+text-align: left;
+}
+.demobtn{
+color: #FFF;
+width: 280.96px;
+height: 70.2px;
+top: 1726px;
+left: 1097px;
+padding: 17.53px 37.86px 17.53px 37.86px;
+gap: 7.01px;
+border-radius: 7.01px 0px 0px 0px;
+opacity: 0px;
+background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+box-shadow: 0px 0px 28.74px 0px #136EDE4D;
+border-color: transparent;
+ align-items: center;
+ }
+.startingat {
+color: #FFFFFF;
+ font-family: Plus Jakarta Sans;
+font-size: 19px;
+font-weight: 500;
+line-height: 23.94px;
+}
+.tosidebyside{
+    display:flex;
+    justify-content: space-between;
+    width: 1700px;
+}
+
+.questions{
+background: #032E4E;
+width: 357px;
+height: 60px;
+top: 5447px;
+left: 828px;
+gap: 0px;
+border-radius: 9px 0px 0px 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+border: 2px solid #FFFFFF0F
+}
+
+.lastpart{
+    background-image: url(lastbluebox.png);
+    width: 423px;
+height: 518px;
+top: 5400px;
+left: 795px;
+gap: 0px;
+border-radius: 9px 0px 0px 0px;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+}
+
+.lastbigtext{
+    color: #FFFFFF;
+    font-family: Plus Jakarta Sans;
+font-size: 49.68px;
+font-weight: 800;
+line-height: 62.59px;
+text-align: left;
+}
+
+.lastsmalltext{
+    color: #FFFFFF;
+    font-family: Plus Jakarta Sans;
+font-size: 21.53px;
+font-weight: 300;
+line-height: 27.12px;
+text-align: left;
+
+}
+
+
+.lastpartmain{
+    display:flex;
+    justify-content: space-between;
+    width: 1700px;
+}
