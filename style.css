@@ -1,6 +1,6 @@
 
 body{
-    background-color: black;
+    background-color:#010242;
 }
 .navbar{
 display:flex;
@@ -9,25 +9,17 @@ width: 1776px;
 }
 .logo_img{
    width: 106px;
-height: 64px;
-top: 52px;
-left: 154px;
-gap: 0px;
-opacity: 0px;
+    height: 64px;
     margin-left: 150px;
 }
 .btn{
     margin-left: 1000px;
 color: #FFF;
-width: Hug (191.65px)px;
-height: Hug (57.05px)px;
-top: 49.62px;
-left: 1097px;
+width: 191.65px;
+height: 57.05px;
 padding: 17.53px 37.86px 17.53px 37.86px;
-gap: 7.01px;
-border-radius: 7.01px 0px 0px 0px;
-opacity: 0px;
-background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 7.01px;
+background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%);
 box-shadow: 0px 0px 28.74px 0px #136EDE4D;
 border-color: transparent;
 align-items: center;
@@ -49,7 +41,7 @@ align-items: center;
     height: 187.29px;
   margin-top: 204.06px;
     margin-left: 160px;
-    opacity: 0px;
+   
 }
 .textbelowtop{
     font-family: 'Plus Jakarta Sans', sans-serif;
@@ -61,12 +53,8 @@ align-items: center;
 .btnn{color: #FFF;
     width:280.96px;
     height: 70.2px;
-    top: 558.05px;
-    left: 160px;
     padding: 17.53px 37.86px 17.53px 37.86px;
-    gap: 7.01px;
-    border-radius: 7.01px 0px 0px 0px;
-    opacity: 0px;
+    border-radius: 7.01px;
     background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
     box-shadow: 0px 0px 28.74px 0px #136EDE4D;
     border-color: transparent;
@@ -100,9 +88,6 @@ text-align: center;
 .bluerectangle{
 width: 1440px;
 height: 110px;
-top: 787px;
-gap: 0px;
-opacity: 0px;
 background-color: #151663;
 display: flex;
 justify-content: space-between;
@@ -129,12 +114,8 @@ text-align: left;
 color: #FFF;
 width: 280.96px;
 height: 70.2px;
-top: 1726px;
-left: 1097px;
 padding: 17.53px 37.86px 17.53px 37.86px;
-gap: 7.01px;
-border-radius: 7.01px 0px 0px 0px;
-opacity: 0px;
+border-radius: 7.01px;
 background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
 box-shadow: 0px 0px 28.74px 0px #136EDE4D;
 border-color: transparent;
@@ -150,10 +131,6 @@ line-height: 23.94px;
 text-align: center;
 width: 252px;
 height: 24px;
-top: 1815.2px;
-left: 163px;
-gap: 0px;
-opacity: 0px;
 }
 
 .uitext{
@@ -165,11 +142,6 @@ line-height: 40.26px;
 text-align: left;
 width: 380px;
 height: 80px;
-top: 1444px;
-left: 855px;
-gap: 0px;
-opacity: 0px;
-
 }
 
 .listtext {
@@ -192,12 +164,8 @@ width: 1700px;
     background-image: url(uiux.png);
     width: 883px;
 height: 434px;
-top: 1375px;
-left: 774px;
-gap: 0px;
 border-radius: 29px 0px 0px 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
 border: 3px solid;
 border-image-source: linear-gradient(90deg, rgba(255, 255, 255, 0.24) 0.74%, rgba(255, 255, 255, 0) 92.13%);
 
@@ -210,26 +178,14 @@ border-image-source: linear-gradient(90deg, rgba(255, 255, 255, 0.24) 0.74%, rgb
     background-image: url(firstimg.png);
     width: 2632.1px;
 height: 1060.54px;
-top: -156.93px;
-left: -596px;
-gap: 0px;
-opacity: 0.42px;
 }
 .arrowright{
     width: 38px;
 height: 38px;
-top: 1790px;
-left: 853px;
-gap: 0px;
-opacity: 0px;
 }
 .arrorwleft{
     width: 38px;
 height: 38px;
-top: 1790px;
-left: 903px;
-gap: 0px;
-opacity: 0px;
 }
 
 .heading1{
@@ -267,11 +223,7 @@ text-align: left;
 background-image: url(blue.png);
  width: 478px;
 height: 367px;
-top: 2370px;
-left: 516px;
-gap: 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
 border: 3px solid #FFFFFF26
 }
 .onepic{
@@ -294,11 +246,7 @@ width: 1700px;
 background-image: url(blue2.png);
  width: 514px;
 height: 366px;
-top: 2882px;
-left: 516px;
-gap: 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
 border: 3px solid #FFFFFF26
 }
 
@@ -312,11 +260,8 @@ border: 3px solid #FFFFFF26
     background-image: url(blue5.png);
     width: 758px;
 height: 176px;
-top: 2880px;
-left: 536px;
-gap: 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
+
 
 }
 .fivepic{
@@ -329,11 +274,8 @@ opacity: 0px;
 background-image: url(blue6.png);
 width: 752px;
 height: 311px;
-top: 3085px;
-left: 537px;
-gap: 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
+
 }
 .belowboxes{
     display:flex;
@@ -404,12 +346,8 @@ text-align: left;
 color: #FFF;
 width: 280.96px;
 height: 70.2px;
-top: 1726px;
-left: 1097px;
 padding: 17.53px 37.86px 17.53px 37.86px;
-gap: 7.01px;
 border-radius: 7.01px 0px 0px 0px;
-opacity: 0px;
 background: radial-gradient(101.07% 399.55% at 2.74% 150.27%, #0053B9 0%, #63A9FF 52.29%, #2D7FE4 98.5%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
 box-shadow: 0px 0px 28.74px 0px #136EDE4D;
 border-color: transparent;
@@ -432,12 +370,8 @@ line-height: 23.94px;
 background: #032E4E;
 width: 357px;
 height: 60px;
-top: 5447px;
-left: 828px;
-gap: 0px;
 border-radius: 9px 0px 0px 0px;
 border: 2px 0px 0px 0px;
-opacity: 0px;
 border: 2px solid #FFFFFF0F
 }
 
@@ -445,12 +379,9 @@ border: 2px solid #FFFFFF0F
     background-image: url(lastbluebox.png);
     width: 423px;
 height: 518px;
-top: 5400px;
-left: 795px;
-gap: 0px;
 border-radius: 9px 0px 0px 0px;
 border: 3px 0px 0px 0px;
-opacity: 0px;
+
 }
 
 .lastbigtext{
